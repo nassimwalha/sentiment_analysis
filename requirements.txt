@@ -33,9 +33,9 @@ seaborn==0.13.2
 sympy==1.13.3
 threadpoolctl==3.5.0
 tokenizers==0.20.0
-torch==2.2.2
-torchaudio==2.2.2
-torchvision==0.17.2
+torch
+torchaudio
+torchvision
 tqdm==4.66.5
 transformers==4.45.2
 tzdata==2024.2
